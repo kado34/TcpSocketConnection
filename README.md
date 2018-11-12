@@ -1,0 +1,2 @@
+# TcpSocketConnection
+UnityでAsyncAwaitを使わないマルチスレッド方式のTCPソケット通信ツール
